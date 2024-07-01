@@ -35,7 +35,7 @@ These instructions will help you set up the project on your local machine for de
    yarn install
    ```
 
-3. Create a `.env` file in the root directory and add your Supabase credentials:
+3. Create a `.env` file in the root directory and add your Neon Database Connection String:
 
    ```plaintext
    NEON_DATABASE_URL=your-neon-database-url
